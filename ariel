@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>A Pen by  Ariel Pyatigorsky</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <head>
+  <title>
+    Ariel Pyatigorsky
+  </title>
+</head>
+
+<body>
+  <h1>Ariel Pyatigorsky</h1>
+  <p>Ariel Boris Pyatigorsky</p>
+  <p>Hello, my name is Ariel Pyatigorsky, but my friends and family call me Patty. This final project is going to be a slideshow of pictures that represent my name in various ways. 
+    <p>The Ukrainian flag is a symbol in my name as my last name is Ukrainian. Both of my parents were born and raised in Kiev, Ukraine. But when they were my age the Ukraine was still called the U.S.S.R. The U.S.S.R was a communist regime that followed communism. My parents disliked communism so much that they knew it was time for a change. So they moved to Israel.
+       <p>My family came to the Ukraine from Poland, where they were nearly killed for being Jewish. Growing up I would always listen to my grandparents talk about their crazy journey from Poland to the Ukraine.</p>
+     <p>The name Ariel is usually confused for a girls name. Due to the movie "Ariel" a princess movie that includes a mermaid.</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GC_mV1IpjWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/m_0ff0KfLyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p>Even with all of the time spent on trying to declare Ariel as unisex name, people still beleive that Ariel is a girls name and not meant for both genders. That hurts my feelings just like the color pink, Why you might ask; honestly I have no clue, but it just does. Also Mr.Landgreen it has been a pleasure being in your class for the first half of the school year and I am really looking forward to learn more about computer science next semester.
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
